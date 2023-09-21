@@ -16,7 +16,8 @@ OS patch dataset is an optical and SAR image patch matching dataset with the pat
 2. Build the corresponding dataset according to the point pair information in "finally_train.txt" and "finally_test.txt".  
 
 
-
+### Other supplements
+To view the experimental benchmark based on this data set, please view our paper "Efficient Feature Relation Learning Network for Cross-Spectral Image Patch Matching" [[link](https://ieeexplore.ieee.org/document/10164118)] published on TGRS. It is worth noting that the epochs of all methods in this experimental benchmark are set to 40.  
 
 
 
