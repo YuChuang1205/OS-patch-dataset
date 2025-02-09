@@ -1,4 +1,7 @@
-# OS patch dataset   
+# OS patch dataset  
+
+### !!!Note: The complete training and testing code (Integrates multiple networks) can be found in [[Link](https://github.com/YuChuang1205/RRL-Net)]
+
 
 ### A brief introduction to the OS patch dataset
 OS patch dataset is an optical and SAR image patch matching dataset with the patch size of 64 × 64 pixels based on the OS dataset [[paper](https://ieeexplore.ieee.org/document/9204802)] and SIFT keypoint extraction. The dataset contains a total of 123,676 pairs of cross-spectral image patches with equal numbers of positive and negative samples. training set : test set=4 : 1 (98,940 : 24,736).   
