@@ -1,6 +1,6 @@
 # OS patch dataset  
 
-### !!!Note: The complete training and testing code (Integrates multiple networks) can be found in [[Link](https://github.com/YuChuang1205/RRL-Net)]
+### !!! Note: The complete training and testing code (Integrates multiple networks) can be found in [[Link](https://github.com/YuChuang1205/RRL-Net)]
 
 
 ### A brief introduction to the OS patch dataset
